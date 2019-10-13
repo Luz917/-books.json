@@ -5,19 +5,19 @@
     "Author2": "Mary GrandPre(Illustrator)",
     "Pages": 322,
     "Publisher": "Scholastic Inc",
-    "ISBN": "0439554934" },
+    "ISBN": 0439554934 },
   {
     "Title": "Beautiful Creatures",
     "Author1": "Kami Garcia",
     "Author2": "Margaret Stohl",
-    "Pages": "563",
+    "Pages": 563,
     "Publisher": "Little, Brown and Company",
-    "ISBN": "0316042676" },
+    "ISBN": 0316042676 },
   {
     "Title": "The Hunger Games",
     "Author1": "Suzanne Collins",
     "Author2": "None",
-    "Pages": "374",
+    "Pages": 374,
     "Publisher": "Scholastic Press",
-     "ISBN": "0439023483" }
+     "ISBN": 0439023483 }
 ]
